@@ -3,7 +3,7 @@ I'm Kiragu,
 a Bsc. Applied Computing student at KCA university,
 
 1. 🔭 I am currently developing full stack web applications with python.  
-   My latest project is [here](https://github.com/SamuelKiragu/Saidia)
+   My latest open source project is [here](https://github.com/SamuelKiragu/Saidia)
 2. 🌱 I'm currently learning machine learing.
 3. Additionally, I write articles on [medium](https://www.kiragu.medium.com).  
    My latest article on medium is [here](https://kiragu.medium.com/using-curl-to-test-django-views-e19ca6d8b070).
