@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SamuelKiragu/SamuelKiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Samuel Kiragu
+
+## My Recent Blog Posts
+
+<!-- BLOG-POSTS:START -->
+- [Why I built this site](https://kiragu.org/blog/2026-03-24/why-i-built-this-site)
