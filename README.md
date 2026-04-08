@@ -1,6 +1,6 @@
 # Samuel Kiragu
 
-## My Recent Blog Posts
+## My Recent Posts
 
 <!-- BLOG-POSTS:START -->
 - [Pushing Large Files Using Obsidian Git](https://kiragu.org/blog/2026-04-08/pushing-large-files-using-obsidian-git) on 8th April 2026
