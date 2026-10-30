@@ -6,6 +6,6 @@ I'm Samuel Kiragu—a DevOps & Cloud Infrastructure Engineer. I build self-heali
 
 ## My Recent Posts
 <!-- BLOG-POSTS:START -->
-- [Why I built this site](https://kiragu.org/blog/2026-10-30/why-i-built-this-site) on 30th October 2026
-- [Pushing Large Files Using Obsidian Git](https://kiragu.org/blog/2026-10-30/pushing-large-files-using-obsidian-git) on 30th October 2026
+- [Why I built this site](https://kiragu.org/blog/2026-04-08/why-i-built-this-site) on 30th October 2026
+- [Pushing Large Files Using Obsidian Git](https://kiragu.org/blog/2026-04-08/pushing-large-files-using-obsidian-git) on 30th October 2026
 <!-- BLOG-POSTS:END -->
